@@ -1,0 +1,11 @@
+.Quotes{
+  width: 90%;
+  border: 0.1rem solid grey;
+  display: flex;
+  flex-direction: column;
+  place-items: center;
+}
+
+.container {
+  width: 90%;
+}

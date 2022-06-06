@@ -1,0 +1,17 @@
+p {
+  line-height: 0.2rem;
+}
+
+.paragraph--semi-bold {
+  font-weight: 600;
+}
+
+.paragraph__secondary {
+  font-size: 0.7rem;
+  color: rgb(100, 100, 100);
+}
+
+.paragraph__tertiary {
+  font-size: 0.7rem;
+  color: rgb(150, 150, 150);
+}
